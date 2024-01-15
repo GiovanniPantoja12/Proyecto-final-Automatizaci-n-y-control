@@ -1,5 +1,5 @@
-# Proyecto final Automatización y control 
-# Estimador de diabetes
+# Proyecto final Automatización y control- Estimador de diabetes
+
 
 Integrantes del Proyecto:
 Diego Alejandro Melo,

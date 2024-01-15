@@ -16,3 +16,18 @@ Este proyecto presenta un Estimador de Diabetes diseñado para ser intuitivo y a
   De igual manera, se hizo una adaptación de la misma con el fin de hacer que los datos tuvieran una mejor aprehencion por el modelo, pues el modelo que se usó (Random Forest) no es capaz de aprender con datos de tipo String/Objeto, por eso fue necesario convertirse a tipo Int y Real
 - Base de datos incluye variables cruciales como género, edad, hipertensión, enfermedad cardíaca, índice de masa corporal (BMI), nivel de hemoglobina A1c y nivel de glucosa en sangre.
 - Herramienta práctica y útil para predecir la presencia de diabetes en individuos.
+
+## Instrucciones de uso
+
+El proceso a seguir para poder ejecutar el modelo y con el fin de visualizar la app web creada mediante Streamlit es el siguiente:
+
+
+- Primero, abra el notebook que encuentra en [Estimador diabetes](), de click en el encabezado, asi podrá abrir la pagina de Google Collab y ejecutar de manera mas simple el codigo.
+
+Antes de poder ejecutar el codigo, por favor suba al proyecto, la siguiente base de datos  [Datos_Diabetes.db](https://github.com/GiovanniPantoja12/Proyecto-final-Automatizaci-n-y-control/blob/6606ba163bcdecdb9089399ea656332d5b9a021b/Base%20de%20datos/Datos_Diabetes.db), posteriormente ejecute con calma cada uno de los bloques de codigo
+
+- Cuando haya ejecutado el ultimo bloque, obtendrá un numero separado por puntos, con este formato: 00.00.000.00. Copie este numero. 
+
+- Posteriormente, abra el link que encuentra en el ultimo renglón, la web que se abre pedirá la clave que anterior mente copio, introdúzcala y espere hasta visualizar la web de predicción de diabetes.
+
+- Rellene los campos con toda la información necesaria, hágalo con calma, deberá esperar que la pagina cargue después de cada modificación de dato, por ultimo, de click en DIAGNOSTICO y obtenga la prediccion

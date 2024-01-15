@@ -30,6 +30,10 @@ El proceso a seguir para poder ejecutar el modelo y con el fin de visualizar la 
 
 - Posteriormente, abra el link que encuentra en el ultimo renglón, la web que se abre pedirá la clave que anterior mente copio, introdúzcala y espere hasta visualizar la web de predicción de diabetes. Podra visualizar la siguiente app web:
 
-  ![Imagen2|]([https://github.com/GiovanniPantoja12/Proyecto-final-Automatizaci-n-y-control/blob/c3480a8ede60a4f653d19cd9df0ad49f3a8d48fb/Imagenes/dest-prediabetes.jpg])
+  ![Imagen2|](https://github.com/GiovanniPantoja12/Proyecto-final-Automatizaci-n-y-control/blob/c3480a8ede60a4f653d19cd9df0ad49f3a8d48fb/Imagenes/dest-prediabetes.jpg)
 
 - Rellene los campos con toda la información necesaria, hágalo con calma, deberá esperar que la pagina cargue después de cada modificación de dato, por ultimo, de click en DIAGNOSTICO y obtenga la prediccion
+
+- Para que la App Web hosteada con Streamlit funcione con normalidad, evite cerrar el Notebook donde ejecutó el codigo, y por supuesto, NO detenga la ejecución del ultimo bloque de codigo
+
+

@@ -37,3 +37,11 @@ El proceso a seguir para poder ejecutar el modelo y con el fin de visualizar la 
 - Para que la App Web hosteada con Streamlit funcione con normalidad, evite cerrar el Notebook donde ejecutó el codigo, y por supuesto, NO detenga la ejecución del ultimo bloque de codigo
 
 
+## Contribución
+Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+
+- Haz un fork del proyecto.
+- Crea una rama para tu función: git checkout -b feature/NuevaFuncion
+- Realiza tus cambios y haz commit: git commit -m 'Añade nueva función'
+- Sube tus cambios: git push origin feature/NuevaFuncion
+- Abre un pull request en GitHub.

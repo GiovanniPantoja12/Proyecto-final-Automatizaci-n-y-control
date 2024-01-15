@@ -1,1 +1,1 @@
-
+Este código implementa un estimador de diabetes utilizando un modelo de Random Forest. La base de datos se encuentra en un archivo SQLite ('datos.db') y contiene variables como edad, hipertensión, enfermedad cardíaca, índice de masa corporal (BMI), nivel de hemoglobina A1c y nivel de glucosa en sangre. El objetivo es predecir si una persona tiene diabetes o no.

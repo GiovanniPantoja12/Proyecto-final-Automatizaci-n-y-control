@@ -22,7 +22,7 @@ Este proyecto presenta un Estimador de Diabetes diseñado para ser intuitivo y a
 El proceso a seguir para poder ejecutar el modelo y con el fin de visualizar la app web creada mediante Streamlit es el siguiente:
 
 
-- Primero, abra el notebook que encuentra en [Estimador diabetes](), de click en el encabezado, asi podrá abrir la pagina de Google Collab y ejecutar de manera mas simple el codigo.
+- Primero, abra el notebook que encuentra en [Estimador diabetes](https://github.com/GiovanniPantoja12/Proyecto-final-Automatizaci-n-y-control/blob/1df381cdace06af1c9e6eeafca97460a92cf7f79/Estimador%20diabetes/Estimador_Diabetes_st.ipynb), de click en el encabezado, asi podrá abrir la pagina de Google Collab y ejecutar de manera mas simple el codigo.
 
 Antes de poder ejecutar el codigo, por favor suba al proyecto, la siguiente base de datos  [Datos_Diabetes.db](https://github.com/GiovanniPantoja12/Proyecto-final-Automatizaci-n-y-control/blob/6606ba163bcdecdb9089399ea656332d5b9a021b/Base%20de%20datos/Datos_Diabetes.db), posteriormente ejecute con calma cada uno de los bloques de codigo
 
